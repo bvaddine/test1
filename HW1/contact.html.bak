@@ -33,14 +33,14 @@
       <label for="telephone">Telephone:</label><br>
       <input type="tel" id="telephone" name="telephone" placeholder="+1 (999)-999-9999" style="margin:15px 0 0 0 ;padding:5px;"><br><br>
       <label for="email">Email:</label><br>
-      <input type="text" id="email" name="email" placeholder="example@gmail.com" style="margin:15px 0 0 0 ;padding:5px;"><br><br>
+      <input type="text" id="email" name="email" placeholder="sample@gmail.com" style="margin:15px 0 0 0 ;padding:5px;"><br><br>
       <label for="message">Message:</label><br>
       <input type="text" id="message" name="message" placeholder="Type your message here" style=" width:25%;height:100px;margin:15px 0 0 0 ;padding:5px;"><br><br>
       <input type="submit" value="Submit" style="padding:10px 15px;border-radius:5px;background-color:grey;">
     </form>
   </div>
   <div style="margin-top:2%;margin-left:35%;">
-    <p><u><span style="font-size:20px;">Find us on:</span></u>
+    <p><u><span style="font-size:20px;">Find us:</span></u>
       <a href="https://www.instagram.com/"  style="margin-left:25px;color:black;font-size:25px;text-decoration:none;">Instagram</a>
       <a href="https://www.facebook.com/" style="margin-left:25px;color:black;font-size:25px;text-decoration:none;"> Facebook</a>
       <a href="https://www.twitter.com/" style="margin-left:25px;color:black;font-size:25px;text-decoration:none;"> Twitter</a>
